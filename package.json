@@ -1,0 +1,20 @@
+{
+  "name": "jinglebol",
+  "version": "1.0.0",
+  "description": "A portal for talented people",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jinglebol"
+  ],
+  "author": "jinglebol",
+  "license": "ISC"
+}
