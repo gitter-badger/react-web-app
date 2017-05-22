@@ -1,0 +1,13 @@
+/* Configuration File for Babel
+
+   ./.babelrc
+
+*/
+{
+    "presets" : [
+        "react","es2015"
+                ]    
+ }
+ 
+
+
