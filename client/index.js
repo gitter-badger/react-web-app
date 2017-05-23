@@ -4,12 +4,6 @@
 */
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Welcome from './components/App.jsx';
 
-
-class App extends React.Component {
-  render() {
-    return <div>Hello World</div>;
-  }
-}
-
-ReactDOM.render( <App />, document.getElementById('root'));
+ReactDOM.render(<Welcome name="Sujay Kundu" />, document.getElementById('root'));

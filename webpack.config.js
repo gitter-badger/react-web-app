@@ -1,22 +1,22 @@
 //Configuration File for Webpack
-
+//var webpack = require('webpack');
 const path = require('path');
-
 const HtmlwebpackPlugin = require('html-webpack-plugin');
+
 const HtmlwebpackPluginConfig = new HtmlwebpackPlugin({
      template: './client/index.html',
      filename: 'index.html',
      inject: 'body'
 });
-const DIST_DIR = path.join(__dirname,'dist');
+
 
 module.exports = {
-    entry: './client/index.js', //Path to index.js
+    entry: './client/index.js', //Path to App Entry Point
     output: {
-          path : DIST_DIR,
-          filename: 'index.bundle.js'
+          path : path.resolve('dist'),
+          filename: 'index_bundle.js'
     },
-    plugins: [new HtmlwebpackPlugin()],
+    plugins: [HtmlwebpackPluginConfig],
     module: {
         loaders: [
             { test: /\.js$/, loader: 'babel-loader', exclude: /node_modules/ },
