@@ -3,29 +3,35 @@
 A Boilerplate for building a Web App with React ! This is what you need :) 
 
 A Starter App Built Using [**React**](https://facebook.github.io/react/), [**Node**](https://nodejs.org/) , [**Express**](expressjs.com) , [**Webpack**](https://webpack.js.org/) , [**Babel**](https://babeljs.io/) , [**React-Bootstrap**](https://react-bootstrap.github.io/). 
-- > **React**- Handles for Front End UI
+
+
 ![React](http://sujaykundu.com/wp-content/uploads/2017/05/react-e1495747587999.png)
 
+- > **React**- Handles for Front End UI
 
-- > **Node** - Server
 ![Node](http://sujaykundu.com/wp-content/uploads/2017/05/node-e1495748056793.png)
 
 
-- > **Express** - For Back End 
+- > **Node** - Server
 
 ![Express](http://sujaykundu.com/wp-content/uploads/2017/05/express-e1495748450936.png)
 
-- > **Webpack**- Our Assets Bundler
+- > **Express** - For Back End 
 
 ![Webpack](http://sujaykundu.com/wp-content/uploads/2017/05/webpack-e1495748488832.png
 )
-- >**Babel** - Our JS compiler
+
+- > **Webpack**- Our Assets Bundler
 
 ![Babel](http://sujaykundu.com/wp-content/uploads/2017/05/babel-e1495748522390.png)
 
-- > **React-Bootstrap** - CSS Framework
+- >**Babel** - Our JS compiler
 
 ![React Bootstrap](http://sujaykundu.com/wp-content/uploads/2017/05/react-bootstrap.png)
+
+
+- > **React-Bootstrap** - CSS Framework
+
 
 This App is built using node v.6.10.2 and npm 3.10.10
 
