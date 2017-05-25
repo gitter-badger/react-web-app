@@ -4,12 +4,28 @@ A Boilerplate for building a Web App with React ! This is what you need :)
 
 A Starter App Built Using [**React**](https://facebook.github.io/react/), [**Node**](https://nodejs.org/) , [**Express**](expressjs.com) , [**Webpack**](https://webpack.js.org/) , [**Babel**](https://babeljs.io/) , [**React-Bootstrap**](https://react-bootstrap.github.io/). 
 
+![]({{site.baseurl}}//react.png) 
 
 - > **React**- Handles for Front End UI
+
+![]({{site.baseurl}}//node.png)
+
 - > **Node** - Server
+
+![]({{site.baseurl}}//express.png)
+
 - > **Express** - For Back End 
+
+![]({{site.baseurl}}//webpack.png)
+
 - > **Webpack**- Our Assets Bundler
+
+![]({{site.baseurl}}//babel.png)
+
 - >**Babel** - Our JS compiler
+
+![]({{site.baseurl}}//react-bootstrap.png)
+
 - > **React-Bootstrap** - CSS Framework
 
 
@@ -35,12 +51,17 @@ Now edit the package.json to configure your App settings.
 
 Once done. You can now run the app using. If you are not a root user. You might need to use sudo.
 
-> /react-web-app~$sudo npm run start
+> /react-web-app~$**sudo npm run start**
 
 You can also use this commands for Development Server
 
-> npm run webpack-dev-server
+> **npm run webpack-dev-server**
 
+> **npm run express-server**
+
+> **nodemon server.js**
+
+   
 **The app should be now running at** http://localhost:3000 
 
 
