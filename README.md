@@ -4,31 +4,17 @@ A Boilerplate for building a Web App with React ! This is what you need :)
 
 A Starter App Built Using [**React**](https://facebook.github.io/react/), [**Node**](https://nodejs.org/) , [**Express**](expressjs.com) , [**Webpack**](https://webpack.js.org/) , [**Babel**](https://babeljs.io/) , [**React-Bootstrap**](https://react-bootstrap.github.io/). 
 
-
-![React](http://sujaykundu.com/wp-content/uploads/2017/05/react-e1495747587999.png)
+![React-Web-App](http://sujaykundu.com/wp-content/uploads/2017/05/react-web-apps.png)
 
 - > **React**- Handles for Front End UI
 
-![Node](http://sujaykundu.com/wp-content/uploads/2017/05/node-e1495748056793.png)
-
-
 - > **Node** - Server
-
-![Express](http://sujaykundu.com/wp-content/uploads/2017/05/express-e1495748450936.png)
 
 - > **Express** - For Back End 
 
-![Webpack](http://sujaykundu.com/wp-content/uploads/2017/05/webpack-e1495748488832.png
-)
-
 - > **Webpack**- Our Assets Bundler
 
-![Babel](http://sujaykundu.com/wp-content/uploads/2017/05/babel-e1495748522390.png)
-
 - >**Babel** - Our JS compiler
-
-![React Bootstrap](http://sujaykundu.com/wp-content/uploads/2017/05/react-bootstrap.png)
-
 
 - > **React-Bootstrap** - CSS Framework
 
@@ -67,9 +53,6 @@ You can also use this commands for Development Server
 
    
 **The app should be now running at** http://localhost:3000 
-
-![React Web App Screenshot](http://sujaykundu.com/wp-content/uploads/2017/05/react-web-app.png)
-
 
 ### More Features to be added soon. So Any Contributions are well appreciated.
 
