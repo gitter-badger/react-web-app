@@ -1,7 +1,7 @@
 {
-  "name": "ner",
+  "name": "react-web-app",
   "version": "1.0.0",
-  "description": "Node Express React",
+  "description": "A Starter Boilerplate for Building React Web App",
   "main": "server.js",
   "dependencies": {
     "babel-plugin-transform-class-properties": "^6.24.1",
@@ -48,5 +48,13 @@
     "node-express-react"
   ],
   "author": "Sujay Kundu",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujaykundu777/react-web-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sujaykundu777/react-web-app/issues"
+  },
+  "homepage": "https://github.com/sujaykundu777/react-web-app#readme"
 }
