@@ -1,5 +1,7 @@
 # React-Web-App
 
+[![Join the chat at https://gitter.im/react-web-app/Lobby](https://badges.gitter.im/react-web-app/Lobby.svg)](https://gitter.im/react-web-app/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A Boilerplate for building a Web App with React ! This is what you need :) 
 
 A Starter App Built Using [**React**](https://facebook.github.io/react/), [**Node**](https://nodejs.org/) , [**Express**](expressjs.com) , [**Webpack**](https://webpack.js.org/) , [**Babel**](https://babeljs.io/) , [**React-Bootstrap**](https://react-bootstrap.github.io/). 
